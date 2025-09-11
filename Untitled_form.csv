@@ -1,4 +1,4 @@
-"Timestamp","First Name","Last Name","Course Track","City","Gender","Seat Number","PC-Make","PC - OS","Feedback"
+"Timestamp","First Name","Last Name","Course_Track","City","Gender","Seat Number","PC-Make","PC - OS","Feedback"
 "2025/09/11 12:55:34 PM GMT+1","Peter","Okonmah","AI","Ogun","Male","28","MACBOOK","Mac OS","non"
 "2025/09/11 12:56:11 PM GMT+1","Toyeebat","Nababa","AI","Abeokuta","Female","24","HP","Windows","Excellent"
 "2025/09/11 12:57:08 PM GMT+1","Perpetual","Meninwa","AI","Lagos","Female","22","HP","Windows","Thank you so much for the opportunity."
